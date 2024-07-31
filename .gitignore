@@ -1,0 +1,11 @@
+new/
+src/
+coding/
+test/*.o
+test/*.dll
+test/*.jpg
+test/*.ico
+test/*.ogg
+test/*.res
+test/*.exe
+
